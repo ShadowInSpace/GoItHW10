@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93fd6058-6427-406b-a15a-3daf9004adcf" name="Changes" comment="First comlite">
-      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Rewriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
+    <list default="true" id="93fd6058-6427-406b-a15a-3daf9004adcf" name="Changes" comment="Second comlite">
+      <change afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PhoneReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PhoneReader01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PhoneReader01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PhoneReader01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Rewriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rewriter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Rewriter">
+  <component name="RunManager" selected="Application.MainTest">
     <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainTest" />
       <module name="GoItHW10" />
@@ -61,8 +60,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Rewriter" />
         <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.Rewriter" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666358337786</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Second comlite">
+      <created>1666643507452</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666643507452</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +112,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start commit" />
     <MESSAGE value="First comlite" />
-    <option name="LAST_COMMIT_MESSAGE" value="First comlite" />
+    <MESSAGE value="Second comlite" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second comlite" />
   </component>
 </project>
